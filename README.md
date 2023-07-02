@@ -1,6 +1,11 @@
 Hi there my name is William Thomas
 <h> VPN Set UP On Microsoft Azure Virtual Machine: </h2>
 
+<p align="center">
+<img src="https://imgur.com/Yf2LGik.png" alt="Windows 10 Virtual Machine Desktop"/>
+</p>
+
+
 This tutorial outlines the Set Up of VPN within Azure Virtual.<br />
 
 <h2>Environments and Technologies Used</h2>
